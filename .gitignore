@@ -1,0 +1,8 @@
+*\~
+*.swp
+*.log
+*.lst
+*.conf
+/logs/
+revizorro
+rvz
