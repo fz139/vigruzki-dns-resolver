@@ -1,9 +1,9 @@
-APIURL=https://eais.schors.spb.ru
-APIKey=d5f820229a314cb96c82cfb696cb66a0e702c4fb78d9a7d61a5611e6658ad6bd
+APIURL=https://example.com
+APIKey=e6905124bccdbc934b3c4f183b7a8588e013bc1900095c5fd421068faaf53a3d
 workdir=/var/opt/revizorro/wd
 results=/var/opt/revizorro/results
 dnshost=127.0.0.1
-dnsport=5454
+dnsport=3333
 forcecount=0
 maxpool=1000
 nextpool=500
