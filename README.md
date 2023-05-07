@@ -7,6 +7,6 @@ To build unbound
 To start
  ./rvz >~/.rvz.log 2>&1
 
- ---
+---
 [![UNLICENSE](noc.png)](UNLICENSE)
 
